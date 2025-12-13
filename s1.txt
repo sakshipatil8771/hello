@@ -1,1 +1,1 @@
-hello sp
+this is git practical session
